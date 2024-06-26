@@ -1,0 +1,30 @@
+{
+  "814055671812063242": {
+    "func": true,
+    "settings": {
+      "user_punish": "remove_roles",
+      "bot_punish": "ban"
+    }
+  },
+  "812938812820684821": {
+    "func": true,
+    "settings": {
+      "user_punish": "remove_roles",
+      "bot_punish": "kick"
+    }
+  },
+  "848791263649726514": {
+    "func": true,
+    "settings": {
+      "user_punish": "kick",
+      "bot_punish": "ban"
+    }
+  },
+  "822263291535556648": {
+    "func": true,
+    "settings": {
+      "user_punish": "ban",
+      "bot_punish": "kick"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "814055671812063242": {
+    "func": false,
+    "settings": {
+      "punishment": null
+    }
+  },
+  "848791263649726514": {
+    "func": true,
+    "settings": {
+      "punishment": "warn"
+    }
+  },
+  "1122255734525145138": {
+    "func": true,
+    "settings": {
+      "punishment": "warn"
+    }
+  }
+}
